@@ -15,12 +15,12 @@
 
 ## Code Attribution Template (Harvard Anglia)
 
-Copy and paste this into your Java files if you adapt snippets from this repository:
+In your code you can add this above a snippet that you use from this repo. You can change it as you see fit. Examples include: This code was adapted from, inspired by etc. As long as you include thee acknowledgement, my GitHub username and the repo link as well as the repo name you should be fine. For further referencing you can use w3Schools or GeeksforGeeks and follow the same principle including date accessed, link, author etc.:
 
 ```java
 /*
- * Adapted from: Mahabeer, S., 2026. PROG6112_Test. [Source code] 
- * Available at: <https://github.com/SMahabeer07/PROG6112_Test.git> 
+ * Adapted from: Mahabeer, S., 2026. PROG6112_Test
+ * Available at: https://github.com/SMahabeer07/PROG6112_Test.git
  * [Accessed 18 November 2026].
  */
 ```
