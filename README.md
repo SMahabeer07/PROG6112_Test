@@ -22,7 +22,7 @@
 
 ---
 
-## 🧩 Java Logic & File Handling Cheatsheet
+## Java Logic & File Handling Cheatsheet
 
 ### 1. Two-Dimensional Arrays (Processing Rows & Columns)
 
